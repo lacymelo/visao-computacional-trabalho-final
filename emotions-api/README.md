@@ -73,8 +73,7 @@ Desenvolvimento de uma API Rest em NodeJs com Prisma ORM, Typescript, Multer, Co
   ✨ npx prisma migrate deploy
 ```
 
-<br />
-
-<div align="center">
-  <small>Desenvolvido por Laciene Melo - Dezembro/2022</small>
-</div>
+## :man_student: Autor
+---
+<a href="https://www.linkedin.com/in/laciene-alves-melo-97a69b222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+Feito com ♥ by Laciene Melo:wave: [#lacymelo](https://github.com/lacymelo)
