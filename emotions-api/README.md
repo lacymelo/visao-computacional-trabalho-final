@@ -1,5 +1,5 @@
 ## 💻 Projeto Emotions API
-Desenvolvimento de uma aplicação no backend com Nodejs, utilizando o Prisma IO, para gerenciamento e venda de carros. Iremos utilizar Typescript e Express.
+Desenvolvimento de uma API Rest em NodeJs com Prisma ORM, Typescript, Multer, Cors, Express, e integração online com a base de dados no Supabase.
 
 ## 🚀 Tecnologias e Comandos de Execução
 
