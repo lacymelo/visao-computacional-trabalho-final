@@ -17,7 +17,7 @@
 ## :rocket: Metas Realizadas
 ---
 
-- [X] Encontrar rostos em uma fotografia
+- [x] Encontrar rostos em uma fotografia
 - [X] Encontrar rostos em uma fotografia (usando aprendizado profundo)
 - [X] Identificar características faciais específicas em uma fotografia
 - [X] Aplicar maquiagem digital (terrivelmente feia)
