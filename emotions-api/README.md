@@ -51,7 +51,7 @@ Desenvolvimento de uma API Rest em NodeJs com Prisma ORM, Typescript, Multer, Co
   <!-- 🛠️ Biblioteca para o prisma formatar o schema
   - ✨ yarn prisma format -->
 
-## 🛠️ Configurações Para Executar o servidor
+## 🛠️ Configurações da API
 ```cl
   Para criar um script de execução do servidor no package.json, é necessário passar três comandos.
   
@@ -64,10 +64,19 @@ Desenvolvimento de uma API Rest em NodeJs com Prisma ORM, Typescript, Multer, Co
   ## ignora a pasta node_modules
   ✨ --ignore-watch
 
-  Exemplo de script
+  Esse script deve ser adicionado no package.json da emotions-api
   "scripts": {
     "dev": "ts-node-dev --exit-child --transpile-only --ignore-watch node_modules src/server.ts"
   },
+```
+
+## 🛠️ Como executar
+```cl
+  ## Entre no diretório emotions-api, e instale as libs, executando o seguinte comando
+  ✨ npm run dev
+
+  ## Para executar o projeto execute
+  ✨ npm run dev
 
   ## comando para fazer o deploy das migrations no supabase
   ✨ npx prisma migrate deploy
