@@ -24,6 +24,7 @@
 - [X] Encontrar e reconhecer rostos desconhecidos em uma fotografia com base em fotografias de pessoas conhecidas
 - [X] Comparar rostos por distância numérica em vez de apenas correspondências Verdadeiro/Falso
 - [X] Reconhecer rostos em vídeo ao vivo usando sua webcam Versão Simples / Mais Lenta (Requer a instalação do OpenCV)
+- [X] WorkSerenity
 
 ## :man_student: Autor
 ---
